@@ -1,3 +1,11 @@
+// See https://aka.ms/new-console-template for more information
+
+using System.ComponentModel.Design.Serialization;
+using System.Runtime.InteropServices;
+
+Console.ForegroundColor = ConsoleColor.DarkRed;
+
+
 string height;
 int intHeight;
 string width;
